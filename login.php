@@ -6,7 +6,7 @@
     <title>Document</title>
 </head>
 <body>
-    <form action="profile.php" method="POST">
+    <form action="" method="POST">
         <input type="text" name="username" placeholder="Your username" required><br>
         <input type="text" name="password" placeholder="Your password" required><br>
         <button type="submit">Login</button>
